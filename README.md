@@ -18,7 +18,7 @@ O código-a-sh na seguinte bibliotecas:
 
     ![image](https://github.com/user-attachments/assets/05a325bd-bac6-47d0-909a-fea4c202d488)
 
-     ![image](https://github.com/user-attachments/assets/07d349e6-8d28-4f11-827f-73b5a5531f86)
+    ![image](https://github.com/user-attachments/assets/07d349e6-8d28-4f11-827f-73b5a5531f86)
 
       Como o código de código: cor de
 
